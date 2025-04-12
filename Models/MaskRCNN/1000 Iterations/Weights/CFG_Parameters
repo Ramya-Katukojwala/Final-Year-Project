@@ -1,4 +1,0 @@
-Configuration Parameters:
-cfg.SOLVER.IMS_PER_BATCH = 4
-cfg.SOLVER.BASE_LR = 0.00025
-cfg.SOLVER.MAX_ITER = 1000
